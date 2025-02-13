@@ -1,8 +1,32 @@
-# React + Vite
+# 📌 Portfolio Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio repository! This project showcases my skills, experience, and projects in a structured and interactive way.
 
-Currently, two official plugins are available:
+## 🚀 About the Project
+This portfolio is designed to serve as a personal website where visitors can explore my work, learn about my background, and connect with me. It highlights my expertise in various domains, including web development, machine learning, and software engineering.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- HTML, CSS, JavaScript
+- React.js
+- Tailwind CSS
+
+## 📸 Features
+- 🔥 Interactive and responsive UI
+- 🌐 Projects showcase with live demos
+- 📬 Contact Details
+- 🚀 Fast and optimized performance
+
+
+## 🌎 Live Demo
+Check out the live version: [Portfolio Website](https://portfolio-kahar-kartiks-projects.vercel.app/)
+
+## 🤝 Contributions
+Feel free to fork this repository, submit issues, or contribute with pull requests to improve the project.
+
+## 📞 Contact
+- 📧 Email: kartikkahar52@gmail.com
+- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kahar-kartik)
+
+---
+Made with ❤️ by Kahar Kartik.
+
