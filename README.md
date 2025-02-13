@@ -25,7 +25,7 @@ Feel free to fork this repository, submit issues, or contribute with pull reques
 
 ## 📞 Contact
 - 📧 Email: kartikkahar52@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kahar-kartik)
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kahar-kartik)
 
 ---
 Made with ❤️ by Kahar Kartik.
